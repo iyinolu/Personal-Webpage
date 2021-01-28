@@ -52,4 +52,13 @@ nav .navbar-nav li a{
 .navbar-brand img {
     height:auto; width:auto;
  
-  }
+}
+
+.profile-section {
+    margin-bottom: 20px;
+}
+.profile-image {
+    border-radius: 62px;
+    height: 117px;
+    width: 117px;
+}
