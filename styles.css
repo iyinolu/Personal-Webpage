@@ -133,4 +133,6 @@ nav .navbar-nav li a:hover{
     display: inline-block;
     height: 15px;
     width: 15px;
+    fill: white;
+    stroke-width: 0;
 }
